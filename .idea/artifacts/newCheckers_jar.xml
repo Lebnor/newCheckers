@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="newCheckers:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/newCheckers_jar</output-path>
+    <root id="archive" name="newCheckers.jar">
+      <element id="module-output" name="newCheckers" />
+    </root>
+  </artifact>
+</component>
